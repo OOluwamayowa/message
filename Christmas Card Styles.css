@@ -1,0 +1,71 @@
+html{
+  text-align: center;
+  background-image: url("background14.jpg"), url("background13.jpg"), url("background12.jpg");
+}
+
+body{
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  overflow-y: scroll;
+  width:550px;
+}
+
+.words{
+  font-family: 'Shizuru', cursive;
+
+}
+
+p{
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 50px;
+  text-align: center;
+  text-indent: 50px;
+  width: 400px;
+  font-family: 'Shizuru', cursive;
+}
+
+#first{
+  color: rgb(200, 100, 100);
+  text-shadow: 4px 4px 5px rgb(10, 200, 190);
+
+
+
+
+}
+
+#second{
+  color: rgb(200, 100, 200);
+  text-shadow: 4px 4px 5px rgb(10, 200, 250);
+
+
+}
+
+#third{
+  color: rgb(200,250, 100);
+  text-shadow: 4px 4px 5px rgb(250, 20, 150);
+
+
+}
+
+#forth{
+  color: rgb(0, 200, 100);
+  text-shadow: 4px 4px 5px rgb(150, 20, 250);
+
+
+}
+
+#fifth{
+  color: rgb(20, 100, 255);
+  text-shadow: 4px 4px 5px rgb(150, 250, 250);
+
+}
+
+#topic{
+  font-size: 70px;
+  color: rgb(255, 0, 0);
+  text-shadow: 4px 4px 5px rgb(0, 0, 0);
+  text-shadow: 0px 0px 10px rgb(0, 0, 255);
+  text-decoration: underline  rgb(0, 255, 0);
+}
